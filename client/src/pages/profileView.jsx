@@ -234,4 +234,5 @@ const ProfileInformation = ({ user, onClose, onNavigateToEdit }) => {
   );
 };
 
+
 export default ProfileInformation;
